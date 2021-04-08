@@ -2,7 +2,7 @@
   <img align="center" src="https://raw.githubusercontent.com/djsime1/djsime1/main/Banner.png" title="Got dark mode?">
 </a>
 
-<h3 align="center">Other places you can find me:</h3>
+<h2 align="center">Other places you can find me:</h3>
 <h4 align="center">
   <code>
     <a href="https://dj.je/discord">
