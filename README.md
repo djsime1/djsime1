@@ -5,7 +5,7 @@
 <h2 align="center">Other places you can find me:</h3>
 <h4 align="center">
   <code>
-    <a href="https://dj.je/discord">
+    <a href="https://discord.gg/SDJDnpyEnc">
       <img width="24" src="https://raw.githubusercontent.com/djsime1/djsime1/main/Icons/Discord.png"> Discord</a></code>
   <code>
     <a href="https://t.me/djsime1">
