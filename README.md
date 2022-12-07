@@ -11,9 +11,6 @@
     <a href="https://t.me/djsime1">
       <img width="24" src="https://raw.githubusercontent.com/djsime1/djsime1/main/Icons/Telegram.png"> Telegram</a></code>
   <code>
-    <a href="https://twitter.com/djsime1david">
-      <img width="24" src="https://raw.githubusercontent.com/djsime1/djsime1/main/Icons/Twitter.png"> Twitter</a></code>
-  <code>
     <a href="https://dj.je">
       <img width="24" src="https://raw.githubusercontent.com/djsime1/djsime1/main/Icons/Website.png"> Website</a></code>
   <code>
